@@ -4,6 +4,7 @@ SQL project analyzing restaurant order data that's stored in a MySQL Database.
 Exploring by writing SQL queries to exploring an order table and a menu table individually and bring them together at the end using joins to better understand customer behaviour.
 
 ASSIGNMENT DETAILS FOR THE RESTAURANT ANALYSIS IN SQL
+
 Digging into the customer data to see which menu items are doing well and ones which are not and what the top customers seems to like best.
 
 OBJECTIVES FOR THE PROJECT 
